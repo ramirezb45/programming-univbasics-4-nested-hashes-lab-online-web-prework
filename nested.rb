@@ -66,9 +66,9 @@ def adding_matz
 
 	programmer_hash = 
  		{
-        :grace_hopper => {
-          :known_for => "COBOL",
-          :languages => ["COBOL", "FORTRAN"]
+        :yukihiro_matsumoto => {
+          :known_for => "Ruby",
+          :languages => ["LISP", "C"]
         },
         :alan_kay => {
           :known_for => "Object Orientation",
@@ -91,7 +91,7 @@ def changing_alan
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "Object Orientation",
+          :alans_new_info => "Gui",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
